@@ -1,6 +1,6 @@
 # GCN_complex_detection
 
-This repository contains two folders description of which is as follows. 
+These are two folders in this repository. 
 
 ## Datasets:
 Four datasets are being used throughout this work. Folders in the Datasets folder are corresponding to each of the datasets. Human, Mouse, and Collins datasets have PPI network and reference complexes. Gavin folder contains complexes obtained from four different methods along with PPI network and reference complexes. 
@@ -25,7 +25,7 @@ There are seven notebooks in this folder. The descriptions of these notebooks ar
 
 6. **Cluster_Aggregation.ipynb:** This notebook provides the aggregation method of clusterings obtained from different methods. 
 
-**Note:** File paths of datasets should be appropriate place in these notebooks. 
+**Note:** File paths of datasets should be at appropriate place in these notebooks. 
 
 
 
